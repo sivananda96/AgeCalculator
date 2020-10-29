@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="person_data_entry_form">Person Data Entry Form</string>
+    <string name="clear">Clear</string>
+    <string name="register">Register</string>
+    <string name="set">Set</string>
+    <string name="date_of_birth">Date Of Birth :</string>
+    <string name="last_name">Last Name :</string>
+    <string name="first_name">First Name :</string>
+    <string name="next">Next</string>
+</resources>
